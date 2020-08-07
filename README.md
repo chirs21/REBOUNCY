@@ -1,2 +1,2 @@
 # REBOUNCY
-a simple ball game using JavaScript
+a simple 2 player ball game using JavaScript
